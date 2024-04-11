@@ -1,4 +1,12 @@
 README.md
+
+![KakaoTalk_Photo_2024-04-11-20-13-55 001](https://github.com/Heisnotanimposter/2024genAIredteamContest/assets/97718938/d0be15ec-d353-4a86-9eeb-a6770678619c)
+![KakaoTalk_Photo_2024-04-11-20-13-56 002](https://github.com/Heisnotanimposter/2024genAIredteamContest/assets/97718938/9a11de14-b63e-4dd2-ab89-a60cfd91d4bd)
+![KakaoTalk_Photo_2024-04-11-20-13-57 003](https://github.com/Heisnotanimposter/2024genAIredteamContest/assets/97718938/f52048c5-c64d-4d4a-b12a-2a0f58ac2df2)
+![KakaoTalk_Photo_2024-04-11-20-13-57 004](https://github.com/Heisnotanimposter/2024genAIredteamContest/assets/97718938/e245c8af-f54b-4276-bf1a-85bc40628061)
+![KakaoTalk_Photo_2024-04-11-20-13-58 005](https://github.com/Heisnotanimposter/2024genAIredteamContest/assets/97718938/dfbf7fc8-5ee7-4064-8aca-8500b811189d)
+![KakaoTalk_Photo_2024-04-11-20-13-58 006](https://github.com/Heisnotanimposter/2024genAIredteamContest/assets/97718938/83a37a07-b74c-46f0-9b77-a1e1b4b417f1)
+
 프로젝트 개요:
 
 Red Team은 Upstage LLM 모델의 보안성능을 테스트하는 컨퍼런스입니다. 이 프로젝트는 Upstage LLM 모델의 취약점을 발굴하고 공격 시나리오를 연구하여 LLM 모델의 보안 수준을 향상시키는 것을 목표로 합니다.
@@ -15,6 +23,7 @@ LLM 보안 관련 연구 활성화
 네이버
 Upstage
 카카오
+
 (참여 기관 추가 가능)
 컨퍼런스 내용:
 
